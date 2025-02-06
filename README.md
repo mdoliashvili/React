@@ -1,9 +1,22 @@
-In the project directory, you can run:
+Rick and Morty React App
 
-npm start
+This is a React-based Single Page Application (SPA) that fetches and displays data from the Rick and Morty API. The app provides information about characters, episodes, and locations from the show.
 
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in the browser.
+Features
+
+React Router for seamless navigation
+
+API Integration using fetch or axios
+
+Custom Hooks for optimized state management
+
+Responsive Design for mobile and desktop compatibility
+
+Animations for a smooth user experience
+
+API Used
+
+This app uses the Rick and Morty API to fetch data.
 
 Main Page 
 
