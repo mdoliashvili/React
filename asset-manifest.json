@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f1f46c44.css",
+    "main.js": "/static/js/main.46c7aa42.js",
+    "static/js/422.ffeb6703.chunk.js": "/static/js/422.ffeb6703.chunk.js",
+    "static/media/noFound.png": "/static/media/noFound.e542b04b09a72a2c24f5.png",
+    "static/media/rickmorty.png": "/static/media/rickmorty.638ec9a07fd3a04a991a.png",
+    "index.html": "/index.html",
+    "main.f1f46c44.css.map": "/static/css/main.f1f46c44.css.map",
+    "main.46c7aa42.js.map": "/static/js/main.46c7aa42.js.map",
+    "422.ffeb6703.chunk.js.map": "/static/js/422.ffeb6703.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1f46c44.css",
+    "static/js/main.46c7aa42.js"
+  ]
+}
