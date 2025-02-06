@@ -1,22 +1,24 @@
 Rick and Morty React App
 
-This is a React-based Single Page Application (SPA) that fetches and displays data from the Rick and Morty API. The app provides information about characters, episodes, and locations from the show.
+     This is a React-based Single Page Application (SPA) that fetches and displays data from the Rick and Morty API. The app provides information about characters, episodes, and locations from the show.
 
 Features
 
      React Router for seamless navigation
 
-API Integration using fetch or axios
+     API Integration using fetch or axios
 
-Custom Hooks for optimized state management
+     Custom Hooks for optimized state management
 
-Responsive Design for mobile and desktop compatibility
+     Responsive Design for mobile and desktop compatibility
 
-Animations for a smooth user experience
+     Animations for a smooth user experience
 
 API Used
 
         This app uses the Rick and Morty API to fetch data.
+
+SCREENS
 
 Main Page 
 
