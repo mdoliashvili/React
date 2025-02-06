@@ -4,7 +4,7 @@ This is a React-based Single Page Application (SPA) that fetches and displays da
 
 Features
 
-React Router for seamless navigation
+     React Router for seamless navigation
 
 API Integration using fetch or axios
 
@@ -16,7 +16,7 @@ Animations for a smooth user experience
 
 API Used
 
-This app uses the Rick and Morty API to fetch data.
+        This app uses the Rick and Morty API to fetch data.
 
 Main Page 
 
